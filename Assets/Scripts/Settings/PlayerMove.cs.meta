@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0c86a5c4805bfbc4aabc8fe8562a703c
+timeCreated: 1562759349
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletAk: {instanceID: 0}
+  - PosBullet: {instanceID: 0}
+  - AmmoTxt: {instanceID: 0}
+  - Ak47Spwan: {fileID: 1460626417484600, guid: fb717f39afdca734d891bc7ff6c59e17,
+      type: 2}
+  - BazookaGSpwan: {fileID: 1644900295179408, guid: 1beb8443fc854be4b85d5251dbc81d4d,
+      type: 2}
+  - KatanaSpwan: {fileID: 1629935712149128, guid: 293543d3e19384b44aca344655876326,
+      type: 2}
+  - SniperSpwan: {fileID: 1857916425303914, guid: 78ef310ea613efa4c866cecd8b6d9cde,
+      type: 2}
+  - PreAK47: {instanceID: 0}
+  - PosArma: {instanceID: 0}
+  - Life: {instanceID: 0}
+  - Wins: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
